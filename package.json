@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AymanGhomim.github.io/Movie-App",
+  "homepage": "https://aymanghomim.github.io/Movie-App",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
